@@ -11,7 +11,7 @@ class UserController {
                secure: false, // true for 465, false for other ports
                auth: {
                    user: 'testing133spam@gmail.com', // generated ethereal user
-                   pass: 'testing133spampass', // generated ethereal password
+                   pass: '***********', // generated ethereal password
                },
            });
 
